@@ -5,10 +5,7 @@
 
 
 
-I'm Kuzmin Vladislav  
-  
-
-Воркаю 24/7  
+I'm Kuzmin Vladislav 
   
 
 EndeavourOS | Gnome  
