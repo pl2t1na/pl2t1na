@@ -8,7 +8,7 @@
 I'm Kuzmin Vladislav 
   
 
-EndeavourOS | Gnome  
+Archlinux | Gnome  
   
 
 <br/>  
